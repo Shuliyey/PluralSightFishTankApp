@@ -12,6 +12,8 @@ var paths = {
     webroot: "./wwwroot/"
 };
 
+paths.bootstrapCss = "./bower_components/bootstrap/dist/css/bootstrap.css";
+
 gulp.task('default', function () {
     // place code for your default task here
 });
