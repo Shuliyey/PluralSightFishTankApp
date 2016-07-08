@@ -81,3 +81,7 @@ bower_components
 # Node Modules        #
 #######################
 node_modules
+#######################
+# ignore visual studio#
+#######################
+.vs
